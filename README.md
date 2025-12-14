@@ -7,7 +7,7 @@ A fork of the sshrd.sh file to resolve the error: cannot find zipfile directory 
 ## Usage
 
 ```bash
-rm ./sshrd.sh && curl https://raw.githubusercontent.com/A11pwnX/SSHRD_Script-fix-gaster-error/refs/heads/main/sshrd.sh -o ./sshrd.sh
+rm ./sshrd.sh && curl https://raw.githubusercontent.com/A11pwnX/SSHRD_Script-fix-gaster-error/refs/heads/main/sshrd.sh -o ./sshrd.sh && chmod +x ./sshrd.sh
 ```
 
 ## How does it work?
